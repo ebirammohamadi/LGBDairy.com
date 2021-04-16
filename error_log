@@ -1,0 +1,175 @@
+[04-Apr-2021 10:33:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function selectProductLimit() in /home/lgbdairy/public_html/products.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/lgbdairy/public_html/products.php on line 21
+[04-Apr-2021 10:34:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function selectProductLimit() in /home/lgbdairy/public_html/products.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/lgbdairy/public_html/products.php on line 21
+[04-Apr-2021 12:01:02 Asia/Tehran] PHP Warning:  include(tpl/admin/showPostProduct.php): failed to open stream: No such file or directory in /home/lgbdairy/public_html/showpostproduct.php on line 54
+[04-Apr-2021 12:01:02 Asia/Tehran] PHP Warning:  include(tpl/admin/showPostProduct.php): failed to open stream: No such file or directory in /home/lgbdairy/public_html/showpostproduct.php on line 54
+[04-Apr-2021 12:01:02 Asia/Tehran] PHP Warning:  include(): Failed opening 'tpl/admin/showPostProduct.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lgbdairy/public_html/showpostproduct.php on line 54
+[04-Apr-2021 16:54:40 Asia/Tehran] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/lgbdairy/public_html/lib/libs.php:74
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(44): getUserByPhone('09359811182')
+#1 /home/lgbdairy/public_html/login.php(32): login('09359811182', '123')
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 74
+[08-Apr-2021 04:58:48 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/products.php on line 157
+[11-Apr-2021 16:07:36 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/lgbdairy/public_html/tpl/admin/profile.php on line 303
+[11-Apr-2021 16:10:24 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/lgbdairy/public_html/tpl/admin/profile.php on line 303
+[11-Apr-2021 16:48:33 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/profile.php on line 288
+[11-Apr-2021 16:49:26 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/profile.php on line 288
+[11-Apr-2021 16:51:21 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/profile.php on line 288
+[11-Apr-2021 16:56:11 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/profile.php on line 288
+[11-Apr-2021 16:59:18 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgbdairy/public_html/profile.php:92) in /home/lgbdairy/public_html/profile.php on line 100
+[12-Apr-2021 10:29:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function updateUser() in /home/lgbdairy/public_html/register.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/lgbdairy/public_html/register.php on line 51
+[12-Apr-2021 10:32:19 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function updateUser() in /home/lgbdairy/public_html/register.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/lgbdairy/public_html/register.php on line 51
+[12-Apr-2021 11:09:39 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/products.php on line 157
+[13-Apr-2021 16:52:55 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function updateUser() in /home/lgbdairy/public_html/register.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/lgbdairy/public_html/register.php on line 51
+[15-Apr-2021 10:49:51 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'selectPostOneByFiled' (T_STRING), expecting ';' or ',' in /home/lgbdairy/public_html/tpl/index.php on line 124
+[15-Apr-2021 11:04:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function php() in /home/lgbdairy/public_html/tpl/index.php:124
+Stack trace:
+#0 /home/lgbdairy/public_html/index.php(40): include()
+#1 {main}
+  thrown in /home/lgbdairy/public_html/tpl/index.php on line 124
+[15-Apr-2021 11:04:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function php() in /home/lgbdairy/public_html/tpl/index.php:124
+Stack trace:
+#0 /home/lgbdairy/public_html/index.php(40): include()
+#1 {main}
+  thrown in /home/lgbdairy/public_html/tpl/index.php on line 124
+[15-Apr-2021 11:37:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function updateUser() in /home/lgbdairy/public_html/register.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/lgbdairy/public_html/register.php on line 51
+[15-Apr-2021 14:54:27 Asia/Tehran] PHP Warning:  Use of undefined constant session_start - assumed 'session_start' (this will throw an Error in a future version of PHP) in /home/lgbdairy/public_html/bootstrap/config.php on line 2
+[15-Apr-2021 15:08:23 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function selectPostOneByFile() in /home/lgbdairy/public_html/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/lgbdairy/public_html/index.php on line 17
+[15-Apr-2021 15:16:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected '<' in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 179
+[15-Apr-2021 15:24:35 Asia/Tehran] PHP Parse error:  syntax error, unexpected 'button' (T_STRING), expecting ';' or ',' in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 184
+[15-Apr-2021 15:33:51 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:41:14 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:41:20 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:41:25 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:41:32 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:42:28 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:42:54 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:43:31 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:43:34 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:43:36 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:43:42 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:50:26 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:52:02 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:52:25 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:53:07 Asia/Tehran] PHP Warning:  Invalid argument supplied for foreach() in /home/lgbdairy/public_html/tpl/admin/showpostlistuser.php on line 170
+[15-Apr-2021 15:53:52 Asia/Tehran] PHP Warning:  include(tpl/admin/orderProduct.php.php): failed to open stream: No such file or directory in /home/lgbdairy/public_html/orderProduct.php on line 32
+[15-Apr-2021 15:53:52 Asia/Tehran] PHP Warning:  include(tpl/admin/orderProduct.php.php): failed to open stream: No such file or directory in /home/lgbdairy/public_html/orderProduct.php on line 32
+[15-Apr-2021 15:53:52 Asia/Tehran] PHP Warning:  include(): Failed opening 'tpl/admin/orderProduct.php.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lgbdairy/public_html/orderProduct.php on line 32
+[16-Apr-2021 08:53:45 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lgbdairy/public_html/orderProduct.php:48) in /home/lgbdairy/public_html/orderProduct.php on line 55
+[16-Apr-2021 09:35:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:35:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:35:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:37:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:37:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:37:27 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:38:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:38:16 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:38:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:38:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:39:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:39:30 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:39:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:40:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:41:15 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
+[16-Apr-2021 09:41:32 Asia/Tehran] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/lgbdairy/public_html/lib/libs.php:1708
+Stack trace:
+#0 /home/lgbdairy/public_html/lib/libs.php(1708): PDOStatement->execute(Array)
+#1 /home/lgbdairy/public_html/showorderuser.php(16): selectOrdersUser(Object(stdClass))
+#2 {main}
+  thrown in /home/lgbdairy/public_html/lib/libs.php on line 1708
